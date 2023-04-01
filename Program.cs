@@ -9,6 +9,7 @@ namespace MathTask1
             double x1, y1, x2, y2, x3, y3;
             double a, b, c, square, perimeter, p;
 
+            //Новый коммент
             Console.WriteLine("Math operations.\n");
             Console.WriteLine("Введите координаты вершин треугольника");
             Console.Write("X1 = ");
