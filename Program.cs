@@ -29,6 +29,9 @@ namespace MathTask1
             b = MathOperationFoundB(x2, y2, x3, y3);
             c = MathOperationFoundC(x1, y1, x3, y3);
 
+            Console.WriteLine("New branch.");
+            Console.WriteLine();
+
             perimeter = FoundPerimetr(a, b, c);
             p = Foundp(a, b, c);
             square = FoundSquare(a, b, c, p);
