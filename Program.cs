@@ -25,6 +25,11 @@ namespace MathTask1
             Console.Write("Y3 = ");
             y3 = Convert.ToInt32(Console.ReadLine());
 
+            Console.WriteLine("Branch about");
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+
             a = MathOperationFoundA(x1, y1, x2, y2);
             b = MathOperationFoundB(x2, y2, x3, y3);
             c = MathOperationFoundC(x1, y1, x3, y3);
