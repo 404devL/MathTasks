@@ -25,7 +25,7 @@ namespace MathTask1
             Console.Write("Y3 = ");
             y3 = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Branch fix");
+            Console.WriteLine("Branch about");
             Console.WriteLine();
             Console.WriteLine();
             Console.WriteLine();
